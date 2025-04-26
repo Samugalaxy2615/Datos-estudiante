@@ -14,6 +14,9 @@ El objetivo es practicar la captura de datos desde consola y mostrar como conver
 - Telefono (Long)
 - Estatura (Float y Double)
 
+## Pasos dentro de github
+- Abrir Carpeta src
+
 ## Ejecucion del programa
 
 A continuacion se muestra una captura de pantalla del programa en ejecucion:
