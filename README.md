@@ -18,7 +18,7 @@ El objetivo es practicar la captura de datos desde consola y mostrar como conver
 
 A continuacion se muestra una captura de pantalla del programa en ejecucion:
 
-##Ingreso de datos por el usuario
+## Ingreso de datos por el usuario
 
 ![Evidencia](https://github.com/Samugalaxy2615/Datos-estudiante/blob/master/Ingreso%20datos%20-%20Running.png?raw=true)
 
