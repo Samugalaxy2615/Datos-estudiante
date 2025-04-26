@@ -14,7 +14,7 @@ El objetivo es practicar la captura de datos desde consola y mostrar como conver
 - Telefono (Long)
 - Estatura (Float y Double)
 
-## Pasos dentro de github
+## Pasos dentro de github (ver codigo final)
 - Abrir Carpeta src
 - Abrir Carpeta TestReciycle
 - Abrir archivo DatosConversion.Java
