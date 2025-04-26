@@ -6,6 +6,8 @@ public class DatosConversion {
         try (Scanner sc = new Scanner(System.in)) {
             System.out.print("Nombre: ");
             String nombre = sc.nextLine();
+            System.out.print("Carrera: ");
+            String carrera = sc.nextLine();
             System.out.print("Edad: ");
             String edadStr = sc.nextLine().replaceAll("[^0-9]", "");
             System.out.print("Telefono: ");
@@ -14,6 +16,7 @@ public class DatosConversion {
             String estaturaStr = sc.nextLine().replaceAll("[^0-9.]", "");
             System.out.println("\n--- Resultados ---");
             System.out.println("Nombre (String): " + nombre);
+            System.out.println("Carrera (String): " + carrera);
             try {
                 Integer edad = Integer.valueOf(edadStr);
                 System.out.println("Edad (Integer): " + edad);
@@ -32,6 +35,7 @@ public class DatosConversion {
             }
 }
 }
+
 
        
 
