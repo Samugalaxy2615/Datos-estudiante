@@ -16,6 +16,8 @@ El objetivo es practicar la captura de datos desde consola y mostrar como conver
 
 ## Pasos dentro de github
 - Abrir Carpeta src
+- Abrir Carpeta TestReciycle
+- Abrir archivo DatosConversion.Java
 
 ## Ejecucion del programa
 
